@@ -24,4 +24,4 @@ Simple Hotel Check written on the `ReactJs` + `Redux-Toolkit` +  `React-Saga`.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MichailShcherbakov&count_private=true&show_icons=true&theme=dark&hide=contribs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichailShcherbakov&show_icons=true&theme=dark&count_private=true&layout=compact&card_width=445&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichailShcherbakov&show_icons=true&theme=dark&count_private=false&layout=compact&card_width=445&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
