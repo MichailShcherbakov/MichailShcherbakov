@@ -8,15 +8,15 @@ Hi, my name is Michael, I'm 22 years old and I'm a Frontend developer
 
 ## 🛠 Pit-Projects
 
-### [Пицца от КЭПа](https://github.com/MichailShcherbakov/caps-pizza)
+### [Пицца от КЭПа](https://github.com/MichailShcherbakov/caps-pizza) - [Link](https://доставка-пиццы-от-кэпа.рф/)
 
 Online pizza shop written on the `NextJs` + `NestJs`.
 
-### [Math Calculator Constructor](https://github.com/MichailShcherbakov/sendsay-dev-task)
+### [Math Calculator Constructor](https://github.com/MichailShcherbakov/sendsay-dev-task) - [Link](https://calculator-constructor-dev-task.netlify.app/)
 
 Calculator constructor written on the `ReactJs` + `Redux-Toolkit` +  `React-DnD`.
 
-### [Simple Hotel Check](https://github.com/MichailShcherbakov/simple-hotel-check)
+### [Simple Hotel Check](https://github.com/MichailShcherbakov/simple-hotel-check) - [Link](https://simple-hotel-check-dev-project.netlify.app/sign-in/)
 
 Simple Hotel Check written on the `ReactJs` + `Redux-Toolkit` +  `React-Saga`.
 
