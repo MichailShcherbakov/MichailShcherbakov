@@ -16,7 +16,7 @@ Online pizza shop written on the `NextJs` + `NestJs`.
 
 Calculator constructor written on the `ReactJs` + `Redux-Toolkit` +  `React-DnD`.
 
-### [Simple Hotel Check](https://github.com/MichailShcherbakov/simple-hotel-check) - [Link](https://simple-hotel-check-dev-project.netlify.app/sign-in/)
+### [Simple Hotel Check](https://github.com/MichailShcherbakov/simple-hotel-check) - [Link](https://simple-hotel-check-dev-project.netlify.app/)
 
 Simple Hotel Check written on the `ReactJs` + `Redux-Toolkit` +  `React-Saga`.
 
