@@ -10,7 +10,7 @@ Hi, my name is Michael, I'm 22 years old and I'm a Frontend developer
 
 ### [Пицца от КЭПа](https://github.com/MichailShcherbakov/caps-pizza) - [Link](https://доставка-пиццы-от-кэпа.рф/)
 
-Online pizza shop written on the `NextJs` + `NestJs`.
+Online pizza shop written on the `NextJs` + `RTK Query` + `NestJs`.
 
 ### [Math Calculator Constructor](https://github.com/MichailShcherbakov/sendsay-dev-task) - [Link](https://calculator-constructor-dev-task.netlify.app/)
 
