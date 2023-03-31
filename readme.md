@@ -24,6 +24,10 @@ Simple notes app written on the `ReactJs` + `Redux-Context` +  `MUI`.
 
 Simple hotel check written on the `ReactJs` + `Redux-Toolkit` +  `React-Saga`.
 
+### [Bukstore - Google Book API Provider](https://github.com/MichailShcherbakov/google-books-app) - [Link](https://google-books-app-five.vercel.app/)
+
+Google Book API provider written on the `NextJs` + `Redux-Toolkit` + `React-Saga`.
+
 ## 📊 Account's Statistics
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MichailShcherbakov&count_private=true&show_icons=true&theme=dark&hide=contribs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
