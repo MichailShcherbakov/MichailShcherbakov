@@ -1,6 +1,6 @@
 # 👨‍💻 MichailShcherbakov
 
-Hi, my name is Michael, I'm 22 years old and I'm a Frontend developer
+Hi, my name is Michael, I'm 22 years old and I'm a UI/UX developer
 
 ## ✨ Skills
 
